@@ -1,14 +1,21 @@
 # About Me
 👋 Hi, I’m **Hamza Alnasir**.  
-🎓 I hold a **Bachelor's in Technology** with a specialization in **Artificial Intelligence and Machine Learning**.  
-💡 Passionate about building intelligent systems and solving complex problems through innovative technology.
+🎓 I hold a **Bachelor's in Technology** specializing in **Artificial Intelligence and Machine Learning**.  
+💡 Passionate about building intelligent systems, solving complex problems, and contributing to impactful projects in the tech industry.  
+
+🌟 **Key Highlights:**  
+- 🏆 Recognized for innovative AI-driven solutions that optimize workflows and enhance user experiences.  
+- ✨ Strong advocate for open-source contributions and community-driven projects.  
+- 🚀 On a journey to leverage technology for real-world impact.
 
 ---
 
 ## 🌐 Connect with Me
+Stay connected and let's collaborate!  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzaalnasir7@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=behance&logoColor=white)](https://yourportfolio.com)
 
 ---
 
@@ -45,27 +52,25 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAlnasir&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAlnasir&theme=default&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAlnasir&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaAlnasir&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAlnasir&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAlnasir&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
-## � UI/UX Design
-<div align="center">
-  <img src="https://via.placeholder.com/400x200.png/0077B5/FFFFFF?text=UI/UX+Design" alt="UI/UX Design" />
-  <p>I enjoy creating intuitive and user-friendly interfaces. Here's a glimpse of my design work.</p>
-</div>
+## 🎯 Featured Projects
+### **AI-driven Healthcare System**
+- 🏥 Designed an intelligent platform to predict disease risks and suggest preventive measures.  
+- 🔗 [Project Repository](https://github.com/HamzaAlnasir/AI-Healthcare-System)
 
----
+### **E-commerce Web App**
+- 🛍️ Built a scalable e-commerce platform with personalized recommendations using Machine Learning.  
+- 🔗 [Project Repository](https://github.com/HamzaAlnasir/Ecommerce-Web-App)  
 
-## 🎨 Projects Showcase
-<div align="center">
-  <img src="https://via.placeholder.com/400x200.png/FF6F00/FFFFFF?text=AI+Project" alt="AI Project" />
-  <img src="https://via.placeholder.com/400x200.png/00ADD8/FFFFFF?text=Web+App" alt="Web App" />
-  <img src="https://via.placeholder.com/400x200.png/092E20/FFFFFF?text=Mobile+App" alt="Mobile App" />
-</div>
+### **Mobile App - Task Manager**
+- 📱 Developed a cross-platform task management app to streamline productivity.  
+- 🔗 [Project Repository](https://github.com/HamzaAlnasir/TaskManager-MobileApp)
 
 ---
 
@@ -81,7 +86,7 @@
 
 ## 🚀 Top Contributions
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=HamzaAlnasir&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=HamzaAlnasir&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </div>
 
 ---
@@ -96,4 +101,4 @@ If you find my work valuable, consider supporting me:
 
 ---
 
-✨ **Proudly crafted with passion and precision.**
+✨ **Crafted with passion and precision to make a difference.**
